@@ -1,0 +1,8 @@
+sumNumber <- SumNumber (58+64) 		
+
+moduloNumber <- ModuloNumber (432%153)
+
+resultCalc <- 122 * 126
+15 372
+
+La valeur de resultCalc est 15 372.
